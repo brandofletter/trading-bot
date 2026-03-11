@@ -1,0 +1,14 @@
+{
+  "state": "sleeping",
+  "cycle": 18,
+  "started_at": "2026-03-10T16:34:19.788939",
+  "last_success_at": "2026-03-10T16:34:19.963369",
+  "last_error": null,
+  "last_results": [
+    {
+      "status": "skipped",
+      "reason": "market closed: NYSE session check",
+      "timestamp": "2026-03-10T16:34:19.789943-04:00"
+    }
+  ]
+}

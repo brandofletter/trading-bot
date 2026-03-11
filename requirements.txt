@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+yfinance
+fastapi
+uvicorn
+ray
+optuna
+textblob
+scikit-learn
+alpaca-trade-api
+pandas
+scikit-learn
+joblib
